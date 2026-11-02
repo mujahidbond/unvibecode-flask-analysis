@@ -1,5 +1,3 @@
-# unvibecode-flask-analysis
-Explored UnvibeCode on Flask, generating workflow maps, code maps, risk analysis, and LLM context tested with Claude.
 # UnvibeCode Flask Analysis
 
 Exploring AI-assisted codebase understanding with UnvibeCode and Claude.
@@ -28,6 +26,17 @@ Explore a workflow-diff feature that compares successive analyses and highlights
 ## Technologies and tools
 
 Python · UnvibeCode · Flask · Claude · GitHub
+
+## Screenshots
+
+### 1. UnvibeCode Analysis Overview
+![UnvibeCode analysis overview](unvibecode-overview.png)
+
+### 2. Connected Code Map
+![Connected Code Map](connected-code.png)
+
+### 3. LLM Context
+![LLM Context](llm-context.png)
 
 ## References
 
